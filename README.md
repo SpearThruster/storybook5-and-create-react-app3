@@ -1,7 +1,6 @@
 # Storybook 4 demo using create-react-app 2.0 + TypeScript (using Babel 7) + react-docgen-typescript-loader
 
-A complete working setup using [cra 2](https://github.com/facebook/create-react-app) with `--typescript`, storybook 4 and [react-docgen-typescript-loader](https://www.npmjs.com/package/react-docgen-typescript-loader).
-
+A complete working setup using [cra 3](https://github.com/facebook/create-react-app) with `--typescript`, storybook 5.
 # Launching Storybook
 
 - `npm i` (first time)
